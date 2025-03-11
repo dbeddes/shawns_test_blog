@@ -1,0 +1,18 @@
+theme: minima
+title: blog.dimcube.org
+email: shawn@dimcube.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Shawn Beddes' blog on all things SQL Server, with a smattering of
+  things from other technologies as I need to figure them out.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  dbeddes
+name: "Shawn Beddes"
+url: "https://blog.dimcube.org"
+
+author:
+  name     : "Shawn Beddes"
+  avatar   : "/assets/images/avatar.jpg"
+  bio      : "I'm a technology professional with 20 year of experience as a SQL Server DBA and Developer.  With a healthy dabbling of other techonlogies along the way."
+  location : "Seattle, WA"
